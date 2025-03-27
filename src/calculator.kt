@@ -10,7 +10,7 @@ fun main() {
     print("Enter first number: ")
     val num1 = read.nextInt()
 
-    println("Enter Operator:")
+    println("Enter Operator(+,-,/,*):")
     var operator = read.next()
 
     print("Enter second number: ")
